@@ -65,6 +65,3 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
----
-
-Note: Replace `[Project Name]` with "Flutter Clean Architecture" and the example email addresses with the actual contact information for your project. It’s crucial that incident reports can be made and will be handled confidentially and professionally.
